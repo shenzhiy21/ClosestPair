@@ -4,7 +4,7 @@ A program to find the closest pair of points on a plane, with a visualization to
 
 The program supports the points to be randomly generated, or decided by the user.
 
-Two algoriths are implemented, and you can choose either one of them to find the closest pair :)
+Two algorithms are implemented, and you can choose either one of them to find the closest pair :)
 
 ## Structure
 
