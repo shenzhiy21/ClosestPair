@@ -29,5 +29,5 @@ Two algorithms are implemented, and you can choose either one of them to find th
 
 ## Other
 
-The project is done by [Zhiyang Shen](https://github.com/shenzhiy21) as homework. Feel free to contact me for any suggestions.
+The project is done by [Zhiyang Shen](https://github.com/shenzhiy21) as homework. Feel free to contact me!
 
